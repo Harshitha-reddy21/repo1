@@ -1,2 +1,2 @@
-print('hi')
-age = int(input("enter age:"))
+print("hello")
+age= int (input("enter age:"))
